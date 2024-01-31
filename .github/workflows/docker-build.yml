@@ -33,4 +33,4 @@ jobs:
 
       - name: Push vers Docker Hub
         run: |
-          docker push siyourself/csa-frontend:tagname
+          docker push siyourself/csa-frontend:latest
